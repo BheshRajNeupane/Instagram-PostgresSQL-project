@@ -1,3 +1,4 @@
+## Project Duration  25 jan - 10 Feb 2024 
 ## Schema Design
 https://dbdocs.io/rajbhesh566/Instgram-DataBase-Design-Project
 
